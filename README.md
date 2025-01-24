@@ -1,4 +1,4 @@
-# Voice-Powered Music Discovery Platform
+# Whatsapp Voice-Powered Music Discovery Platform
 
 ## 🎤 Intelligent Audio Analysis and Personalized Music Recommendation System
 
